@@ -6,7 +6,7 @@
 # This is your Docker ID/path
 # dockerpath=<>
 dockerpath=uzodimma/test:latest
-dockerimage=uzodimma/test
+dockerimage=test
 
 # Step 2
 # Run the Docker Hub container with kubernetes
